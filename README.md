@@ -6,7 +6,7 @@ I have to create project with the following structure of elements:
 
 ![layout](https://github.com/OlSerkes/grid-layout/blob/master/layout.png)
 
-Application is adaptive for mobile, laptop and desktop. 
+Responsible layout. 
 
 Technologies used:
 
